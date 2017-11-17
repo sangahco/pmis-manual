@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 KS-PMIS Documentation version 0.1A
-===================================
+==============================================
 
 Menu:
 ------------------
