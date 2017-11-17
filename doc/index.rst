@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-PMIS User Manual
-=====================
+KS-PMIS Documentation version 0.1A
+===================================
 
 Menu:
 ------------------
