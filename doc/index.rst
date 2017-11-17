@@ -1,16 +1,19 @@
-.. Demo documentation master file, created by
-   sphinx-quickstart on Fri Nov 17 00:58:41 2017.
+.. SangAh Development Note documentation master file, created by
+   sphinx-quickstart on Mon Aug 10 00:04:35 2015.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Demo's documentation!
-================================
+PMIS User Manual
+=====================
+
+Menu:
+------------------
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-
+   :maxdepth: 1
+   :glob:
+   
+   menu/*
 
 Indices and tables
 ==================
